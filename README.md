@@ -28,10 +28,12 @@
 ## 📸 Screenshots
 
 ### Discord Notifications
-![Discord Alert](https://via.placeholder.com/800x400/7289DA/FFFFFF?text=Discord+Notifications+Preview)
+<img width="766" height="675" alt="image" src="https://github.com/user-attachments/assets/8106af0f-af06-4817-8c63-f9f398418f89" />
+<img width="956" height="629" alt="image" src="https://github.com/user-attachments/assets/277b45d1-69a7-4724-bac6-ef5d70513e02" />
+
 
 ### Telegram Alerts
-![Telegram Alert](https://via.placeholder.com/400x600/0088CC/FFFFFF?text=Telegram+Alerts+Preview)
+<img width="726" height="558" alt="image" src="https://github.com/user-attachments/assets/5fb2e4db-61c5-4af9-ae6c-e285ffdf1e97" />
 
 ## 🚀 Quick Start
 
