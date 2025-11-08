@@ -1,0 +1,56 @@
+{
+  "DiscordWebhook": "https://discord.com/api/webhooks/1159645397527056424/TFOuFqsbs8-vRUoz7Ge-1dttywQa3_ZeXKiorqFdg532LxVrexlMueQbtb3jhlTybTn_",
+  "telegram": {
+    "bot_token": "7558688910:AAGu3gOk9Yco30EpPz9FI0zrdfAHN653i6w",
+    "chat_id": "-1002613190544"
+  },
+  "database": {
+    "path": "pewpew_watcher.db"
+  },
+  "platforms": {
+    "hackerone": {
+      "url": "https://github.com/arkadiyt/bounty-targets-data/raw/main/data/hackerone_data.json",
+      "monitor": true,
+      "notifications": {
+        "new_program": true,
+        "removed_program": true,
+        "new_scope": true,
+        "removed_scope": true,
+        "changed_scope": true,
+        "new_type": true
+      }
+    },
+    "bugcrowd": {
+      "url": "https://github.com/arkadiyt/bounty-targets-data/raw/main/data/bugcrowd_data.json",
+      "monitor": true,
+      "notifications": {
+        "new_program": true,
+        "removed_program": true,
+        "new_scope": true,
+        "removed_scope": true,
+        "new_type": true
+      }
+    },
+    "intigriti": {
+      "url": "https://github.com/arkadiyt/bounty-targets-data/raw/main/data/intigriti_data.json",
+      "monitor": true,
+      "notifications": {
+        "new_program": true,
+        "removed_program": true,
+        "new_scope": true,
+        "removed_scope": true,
+        "changed_scope": true
+      }
+    },
+    "yeswehack": {
+      "url": "https://github.com/arkadiyt/bounty-targets-data/raw/main/data/yeswehack_data.json",
+      "monitor": true,
+      "notifications": {
+        "new_program": true,
+        "removed_program": true,
+        "new_scope": true,
+        "removed_scope": true
+      }
+    }
+  }
+}
